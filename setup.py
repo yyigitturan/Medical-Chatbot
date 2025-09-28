@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup 
 
 setup(
-    name="medicus_ai", 
+    name="MedicalAI", 
     version="0.1.0", 
     author="Yaşar Yiğit Turan", 
     author_email="yasaryigitturan@gmail.com", 
