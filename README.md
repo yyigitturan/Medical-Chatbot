@@ -19,6 +19,20 @@ This project implements Retrieval-Augmented Generation (RAG) system specifically
 
 ![alt text](flow.png)
 
+# 🚀 Tech Stack
+
+<div align="left">
+
+| Category | Technologies |
+|----------|--------------|
+| **🤖 AI Framework & Models** | `LangChain` `Gemini LLM` `Sentence Transformers` |
+| **🗄️ Vector Database** | `Pinecone` `HuggingFace` |
+| **🌐 Backend** | `Flask` `Flask-CORS` |
+| **🎨 Frontend** | `HTML5` `CSS3` `JavaScript` |
+| **📄 Document Processing** | `PyPDF` |
+| **🔧 Development & Deployment** | `Docker` `Python-Dotenv` `Python 3.10+` |
+
+</div>
 
 
 
