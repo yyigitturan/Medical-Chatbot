@@ -1,3 +1,14 @@
+# Medical-Chatbot 
+
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
+[![Flask](https://img.shields.io/badge/Flask-3.1.1-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://docker.com)
+[![LangChain](https://img.shields.io/badge/LangChain-0.3.27-00FF00)](https://langchain.com)
+[![Google Gemini](https://img.shields.io/badge/Gemini_AI-Powered-4285F4?logo=google&logoColor=white)](https://gemini.google.com)
+[![Pinecone](https://img.shields.io/badge/Vector_DB-Pinecone-430098)](https://pinecone.io)
+[![RAG Architecture](https://img.shields.io/badge/Architecture-RAG-8A2BE2)](https://github.com/yyigitturan/Medical-Chatbot)
+
 # 🎯 Overview
 
 This project implements Retrieval-Augmented Generation (RAG) system specifically designed for medical knowledge queries. By combining Pinecone's vector database with Google's Gemini LLM, it provides accurate, contextually relevant medical information grounded in verified literature.
