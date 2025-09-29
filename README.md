@@ -1,5 +1,6 @@
 # Medical-Chatbot 
-🎯 Overview
+
+# 🎯 Overview
 
 This project implements Retrieval-Augmented Generation (RAG) system specifically designed for medical knowledge queries. By combining Pinecone's vector database with Google's Gemini LLM, it provides accurate, contextually relevant medical information grounded in verified literature.
 
