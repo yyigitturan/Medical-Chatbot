@@ -1,6 +1,18 @@
 # Medical-Chatbot 
-RAG-powered medical chatbot providing evidence-based insights on disease causes and treatments.
+🎯 Overview
 
+This project implements Retrieval-Augmented Generation (RAG) system specifically designed for medical knowledge queries. By combining Pinecone's vector database with Google's Gemini LLM, it provides accurate, contextually relevant medical information grounded in verified literature.
+
+# ✨ Project Features
+
+- RAG Implementation
+  - Semantic Chunking: Intelligent document segmentation preserving medical context
+  - Multi-vector Retrieval: Top-K similarity search with relevance scoring
+  - Context-Aware Generation: Prompt engineering optimized for medical accuracy
+
+- Production-Ready Architecture
+   - Containerized Deployment: Docker support with multi-stage builds
+   - Environment Management: Secure API key handling and configuration
 
 # 📊 Project Workflow
 
@@ -8,8 +20,14 @@ RAG-powered medical chatbot providing evidence-based insights on disease causes 
 
 
 
+
 # 🛠️ Installation & Setup
-### Steps: 
+
+### Prerequisites
+- Pinecone API account
+- Google Gemini API key
+
+## Steps: 
 
 Clone the repository 
 
@@ -47,7 +65,7 @@ python store_index.py
 ```bash 
 python app.py
 ``` 
-### Docker Deployment
+## Docker Deployment
 Build the Image
 
 ```bash 
