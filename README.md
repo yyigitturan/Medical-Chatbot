@@ -19,6 +19,11 @@ This project implements Retrieval-Augmented Generation (RAG) system specifically
 
 ![alt text](flow.png)
 
+# 🖥️ Application Interface
+
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/55bb0aa9-67c3-4e41-9491-7468ac5485f1" />
+
+
 # 🚀 Tech Stack
 
 <div align="left">
